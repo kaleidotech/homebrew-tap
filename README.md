@@ -1,16 +1,16 @@
-# Kaleidotech Tap
+# Eye Zen Homebrew Tap
 
 ## How do I install these formulae?
 
-`brew install kaleidotech/tap/<formula>`
+`brew install kaleidotech/tap/eye-zen`
 
-Or `brew tap kaleidotech/tap` and then `brew install <formula>`.
+Or `brew tap kaleidotech/tap` and then `brew install eye-zen`.
 
 Or, in a `brew bundle` `Brewfile`:
 
 ```ruby
 tap "kaleidotech/tap"
-brew "<formula>"
+brew "eye-zen"
 ```
 
 ## Documentation
