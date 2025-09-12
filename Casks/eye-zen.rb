@@ -1,5 +1,5 @@
 cask "eye-zen" do
-  version "1.1.0"
+  version "1.1.1"
   sha256 :no_check
 
   url "https://github.com/kaleidotech/eye-zen/releases/download/#{version}/eye_zen_darwin_arm64.zip"
