@@ -12,7 +12,7 @@ cask "eye-zen" do
     regex(/^v?(\d+(?:\.\d+)+)$/i)
   end
 
-  depends_on macos: ">= :high_sierra"
+  # depends_on macos: ">= :high_sierra"
 
   app "Eye Zen.app"
 end
